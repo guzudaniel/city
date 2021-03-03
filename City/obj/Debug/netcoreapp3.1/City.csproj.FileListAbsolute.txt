@@ -1,0 +1,13 @@
+D:\Universitate\Anul II\Informatica\Concepte avansate in programarea web\City\City\bin\Debug\netcoreapp3.1\City.exe
+D:\Universitate\Anul II\Informatica\Concepte avansate in programarea web\City\City\bin\Debug\netcoreapp3.1\City.deps.json
+D:\Universitate\Anul II\Informatica\Concepte avansate in programarea web\City\City\bin\Debug\netcoreapp3.1\City.runtimeconfig.json
+D:\Universitate\Anul II\Informatica\Concepte avansate in programarea web\City\City\bin\Debug\netcoreapp3.1\City.runtimeconfig.dev.json
+D:\Universitate\Anul II\Informatica\Concepte avansate in programarea web\City\City\bin\Debug\netcoreapp3.1\City.dll
+D:\Universitate\Anul II\Informatica\Concepte avansate in programarea web\City\City\bin\Debug\netcoreapp3.1\City.pdb
+D:\Universitate\Anul II\Informatica\Concepte avansate in programarea web\City\City\obj\Debug\netcoreapp3.1\City.csprojAssemblyReference.cache
+D:\Universitate\Anul II\Informatica\Concepte avansate in programarea web\City\City\obj\Debug\netcoreapp3.1\City.AssemblyInfoInputs.cache
+D:\Universitate\Anul II\Informatica\Concepte avansate in programarea web\City\City\obj\Debug\netcoreapp3.1\City.AssemblyInfo.cs
+D:\Universitate\Anul II\Informatica\Concepte avansate in programarea web\City\City\obj\Debug\netcoreapp3.1\City.csproj.CoreCompileInputs.cache
+D:\Universitate\Anul II\Informatica\Concepte avansate in programarea web\City\City\obj\Debug\netcoreapp3.1\City.dll
+D:\Universitate\Anul II\Informatica\Concepte avansate in programarea web\City\City\obj\Debug\netcoreapp3.1\City.pdb
+D:\Universitate\Anul II\Informatica\Concepte avansate in programarea web\City\City\obj\Debug\netcoreapp3.1\City.genruntimeconfig.cache
